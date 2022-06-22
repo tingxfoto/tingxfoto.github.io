@@ -1,0 +1,23 @@
+.dropdown-menu{
+    font-size: 9px;
+    text-align:left;
+    font-family: 'Jost',sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: rgb(111, 111, 111);
+    line-height: 30px;
+}
+.header{
+    font-size: 10px;
+    text-align: right;
+    font-family: 'Jost',sans-serif;
+    font-weight: 300;
+    flood-color: darkgray;
+    text-align: right;
+}
+.container{
+    font-family: 'Jost',sans-serif;
+    font-weight: 300;
+    font-size: 8px;
+    letter-spacing: 3px;
+}
